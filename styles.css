@@ -5,15 +5,15 @@ body {
     justify-content: flex-start;
     align-items: flex-start;
     height: 100vh;
-    margin: 0; /* Remove margins */
+    margin: 2em 10%; /* Keep margins for the rest of the content */
     background-color: #fff;
 }
 
 .header-image {
-    width: 100vw; /* Make the image full width */
+    width: 100%; /* Make the image full width */
     height: auto;
     display: block;
-    margin: 0; /* Remove any margins around the image */
+    margin: 0; /* Remove margins around the image */
 }
 
 h1 {
