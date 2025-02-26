@@ -9,6 +9,11 @@
             margin: 2em 10%;
             background-color: #fff;
         }
+
+     .header-image {
+            width: 100%;
+            height: auto;
+            display: block;
         h1 {
           font-family: "IBM Plex Mono", serif;
           font-weight: 800;
